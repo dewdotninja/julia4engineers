@@ -1,1 +1,4 @@
-# julia4engineers
+# การโปรแกรมจูเลียสำหรับวิศวกร
+# Julia Programming for Engineers
+
+github นี้สำหรับหนังสือชื่อตามหัวเรื่อง อยู่ระหว่างการพัฒนา
